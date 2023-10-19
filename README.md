@@ -56,14 +56,14 @@ Bishkek and in parallel I am mastering new technologies.
 ### :technologist: My technology stack:
 
 <div id="technologies>
-  <img width="80px" src="assets/images/html5-original.svg" alt="HTML">
-  <img width="80px" src="assets/images/css3-original.svg" alt="CSS">
-  <img width="80px" src="assets/images/sass-original.svg" alt="SASS">
-  <img width="80px" src="assets/images/javascript-original.svg" alt="JavaScript">
-  <img width="80px" src="assets/images/typescript-original.svg" alt="TypeScript">
-  <img width="80px" src="assets/images/nodejs-original.svg" alt="Node.js">
-  <img width="80px" src="assets/images/express-original.svg" alt="Express">
-  <img width="80px" src="assets/images/materialui-original.svg" alt="Material UI">
-  <img width="80px" src="assets/images/mongodb-original.svg" alt="MongoDB">
-  <img width="80px" src="assets/images/git-original.svg" alt="GIT">
+  <img width="50px" src="assets/images/html5-original.svg" alt="HTML">
+  <img width="50px" src="assets/images/css3-original.svg" alt="CSS">
+  <img width="50px" src="assets/images/sass-original.svg" alt="SASS">
+  <img width="50px" src="assets/images/javascript-original.svg" alt="JavaScript">
+  <img width="50px" src="assets/images/typescript-original.svg" alt="TypeScript">
+  <img width="50px" src="assets/images/nodejs-original.svg" alt="Node.js">
+  <img width="50px" src="assets/images/express-original.svg" alt="Express">
+  <img width="50px" src="assets/images/materialui-original.svg" alt="Material UI">
+  <img width="50px" src="assets/images/mongodb-original.svg" alt="MongoDB">
+  <img width="50px" src="assets/images/git-original.svg" alt="GIT">
 </div>
