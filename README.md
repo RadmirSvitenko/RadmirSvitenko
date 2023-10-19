@@ -53,7 +53,7 @@ Bishkek and in parallel I am mastering new technologies.
 
 ---
 
-### :technologist: My technology stack:
+### :technologist: Technology:
 
 <div id="technologies>
   <img width="50px" src="assets/images/html5-original.svg" alt="HTML">
@@ -66,4 +66,15 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/materialui-original.svg" alt="Material UI">
   <img width="50px" src="assets/images/mongodb-original.svg" alt="MongoDB">
   <img width="50px" src="assets/images/git-original.svg" alt="GIT">
+</div>
+
+### :hammer_and_wrench: Instruments:
+
+<div id="instruments>
+  <img width="50px" src="assets/images/vscode-original-wordmark.svg" alt="Visual Studio Code">
+  <img width="50px" src="assets/images/react-original.svg" alt="React">
+  <img width="50px" src="assets/images/icons8-react-native.svg" alt="React Native">
+  <img width="50px" src="assets/images/figma-original.svg" alt="Figma">
+  <img width="50px" src="assets/images/illustrator-line.svg" alt="Adobe Illustrator">
+  <img width="50px" src="assets/images/redux-devtools-original.svg" alt="Redux Devtools">
 </div>
