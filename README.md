@@ -18,13 +18,13 @@ Bishkek and in parallel I am mastering new technologies.
 
 ---
 
-- :open_hands: Окончил Кыргызский Национальный Университет.
+- :open_hands: Graduated from the Kyrgyz National University.
 
-- :nerd_face: Завершил курсы по веб-разработке ADA Courses
+- :nerd_face: Completed the ADA Courses in WEB-Development.
 
-- :triumph: Являюсь стажером в ADA Company
+- :triumph: I am an intern at an ADA Company.
 
-- :point_right: Как связаться со мной:
+- :point_right: How to contact me:
   [![Telegram Badge](https://img.shields.io/badge/-svitenko_radmir-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rohaanDe)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:radmirsvitenko@gmail.com)
 
