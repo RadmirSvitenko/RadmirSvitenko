@@ -33,17 +33,17 @@ Bishkek and in parallel I am mastering new technologies.
 ### :information_desk_person: Social network:
 
  <div id="badges">
-  <a>
-    <img src="https://www.linkedin.com/in/%D1%80%D0%B0%D0%B4%D0%BC%D0%B8%D1%80-%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D0%BD%D0%BA%D0%BE-b17667245/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/%D1%80%D0%B0%D0%B4%D0%BC%D0%B8%D1%80-%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D0%BD%D0%BA%D0%BE-b17667245/">
+    <img src="assets/images/icons8-linkedin.svg" alt="Linkedin">
   </a>
 
-    <a>
-    <img src="https://t.me/rohaande" alt="Telegram">
+    <a href="https://t.me/rohaande">
+    <img src="assets/images/icons8-telegram.svg" alt="Telegram">
 
   </a>
 
-    <a>
-    <img src="radmirsvitenko@gmail.com" alt="Gmail">
+    <a href="radmirsvitenko@gmail.com">
+    <img src="assets/images/icons8-gmail.svg" alt="Gmail">
 
   </a>
 
