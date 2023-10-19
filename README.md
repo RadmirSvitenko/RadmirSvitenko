@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, my name is Radmir!
 
-<!--
-**RadmirSvitenko/RadmirSvitenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Radmir Svitenko, I am an aspiring Frontend developer. I started to be
+interested in the world of IT in 2017, the same year I entered the Kyrgyz
+National University in the direction of "Computer Networks and Internet". After
+graduating from university, I started working in my specialty, but soon realized
+that development attracts me much more, so soon I enrolled in an intensive
+course on "Frontend Development". At the moment I am interning in ADA company in
+Bishkek and in parallel I am mastering new technologies.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
