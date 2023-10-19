@@ -78,3 +78,15 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/illustrator-line.svg" alt="Adobe Illustrator">
   <img width="50px" src="assets/images/redux-devtools.png" alt="Redux Devtools">
 </div>
+
+## :fist_raised: Codewars:
+
+![codewars](https://www.codewars.com/users/RadmirSvitenko/badges/large)
+
+## :fist_raised: Leetcode:
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=RadmirSvitenko)](https://github.com/KnlnKS/leetcode-stats)
+
+## :writing_hand: GitHub statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadmirSvitenko)](https://github.com/anuraghazra/github-readme-stats)
