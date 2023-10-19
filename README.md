@@ -38,15 +38,15 @@ Bishkek and in parallel I am mastering new technologies.
   </a>
 
   <a href="https://vk.com/radmirsvitenko">
-    <img width="100px" src="assets/images/icons8-linkedin.svg" alt="Linkedin">
+    <img width="100px" src="assets/images/icons8-vk-192.svg" alt="Linkedin">
   </a>
 
-    <a href="https://t.me/rohaande">
+    <a href="t.me/rohaande">
     <img width="100px" src="assets/images/icons8-telegram.svg" alt="Telegram">
 
   </a>
 
-    <a href="radmirsvitenko@gmail.com">
+    <a href="mailto:radmirsvitenko@gmail.com">
     <img width="100px" src="assets/images/icons8-gmail.svg" alt="Gmail">
 
   </a>
