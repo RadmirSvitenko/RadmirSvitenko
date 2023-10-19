@@ -45,7 +45,7 @@ Bishkek and in parallel I am mastering new technologies.
     <img width="50px" src="assets/images/icons8-логотип-telegram-96.png" alt="Telegram">
   </a>
 
-  <a href="https://mailto:radmirsvitenko@gmail.com">
+  <a href="https://radmirsvitenko@gmail.com">
     <img width="50px" src="assets/images/icons8-gmail-96.png" alt="Gmail">
   </a>
 
