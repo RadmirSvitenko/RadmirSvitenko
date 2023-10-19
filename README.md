@@ -76,5 +76,5 @@ Bishkek and in parallel I am mastering new technologies.
   <img width="50px" src="assets/images/icons8-react-native.svg" alt="React Native">
   <img width="50px" src="assets/images/figma-original.svg" alt="Figma">
   <img width="50px" src="assets/images/illustrator-line.svg" alt="Adobe Illustrator">
-  <img width="50px" src="assets/images/redux-devtools-original.svg" alt="Redux Devtools">
+  <img width="50px" src="assets/images/redux-devtools.png" alt="Redux Devtools">
 </div>
