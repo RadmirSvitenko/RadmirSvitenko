@@ -13,7 +13,7 @@ course on "Frontend Development". At the moment I am interning in ADA company in
 Bishkek and in parallel I am mastering new technologies.
 
 <p align="center">
- <img width="800" src="assets/gif/git-gifka.gif" alt="code"/>
+ <img width="100%" src="assets/gif/git-gif.gif" alt="code"/>
 </p>
 
 ---
